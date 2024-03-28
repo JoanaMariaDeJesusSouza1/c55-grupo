@@ -1,0 +1,54 @@
+h1 {
+    color: rgb(201, 6, 240);
+}
+
+/* * {
+    border: solid;
+} */
+
+.header{
+    background-color: rgb(12, 221, 400);
+    display: flex;
+    justify-content: space-between;
+}
+
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+    color:#ffffff
+}
+
+body{
+   /*background-color:rgb(150,1180,1155); cyan*/
+
+   /*background-color:#123;*/
+   background-color: #b13684;
+   
+   /*
+   border: 0ch;
+   margin: 0pc;
+   font-size: medium;
+ 
+   background-color:#000000;  para a cor preta
+   background-color:#ffffff;  para a cor branca
+   background-color:#f4389f;  para a cor cinza
+    background-color:#ff00AC;  para a cor rosa
+   */
+   
+}
